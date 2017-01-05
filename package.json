@@ -16,8 +16,10 @@
     "test": "xo && ava"
   },
   "files": [
-    "index.js"
+    "index.js",
+    "browser.js"
   ],
+  "browser": "browser.js",
   "keywords": [
     "camelcase",
     "camel-case",
